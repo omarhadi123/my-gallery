@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 1,
@@ -20,3 +21,6 @@
         "title": "photo 4"
     }
 ]
+=======
+[   {     "id": 1,     "filename": "photo1.jpg",     "title": "photo 1"   },   {     "id": 2,     "filename": "photo2.jpg",     "title": "photo 2"   },   {     "id": 3,     "filename": "photo3.jpg",     "title": "photo 3"   } ] 
+>>>>>>> 30c1819bdbcf0b9ba35ba28d635ba335c390b0dc
